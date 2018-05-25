@@ -41,8 +41,8 @@ The output file would be like this
 
 [key word]	[doc_id_1:frequency] [doc_id_2:frequency]
 
-abnegate         85886315:1           80811098:1
-ably             9931985:1        
+*abnegate         85886315:1           80811098:1 <br>
+*ably             9931985:1  <br>
 
 
 
