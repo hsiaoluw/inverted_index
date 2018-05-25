@@ -38,11 +38,11 @@ sh merge.sh
 ```
 To merge the results in output.txt, and find the doc id of certain keywords in index.txt
 The output file would be like this
-
+<pre>
 |key word|doc_id_1:frequency|doc_id_2:frequency| <br>
 |abnegate|85886315:1        |80811098:1| <br>
 |ably    |9931985:1         |            <br>
-
+</pre>
 
 
 
